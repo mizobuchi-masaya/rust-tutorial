@@ -1,0 +1,12 @@
+[package]
+name = "p8"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "loop_labels_to_disambiguate_between_multiple_loops"
+path = "src/loop_labels_to_disambiguate_between_multiple_loops.rs"
