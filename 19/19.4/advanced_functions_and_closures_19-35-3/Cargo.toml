@@ -1,0 +1,6 @@
+[package]
+name = "advanced_functions_and_closures_19-35-3"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
