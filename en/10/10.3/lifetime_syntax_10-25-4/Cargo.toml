@@ -1,0 +1,6 @@
+[package]
+name = "lifetime_syntax_10-25-4"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
